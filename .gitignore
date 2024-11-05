@@ -1,0 +1,50 @@
+# Byte-compiled / optimized / DLL files for C++
+*.o
+*.obj
+*.exe
+*.out
+*.dSYM/
+*.dSYM/*
+
+# Go build files
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Python build files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+
+# Log files
+*.log
+
+# Environment configuration files
+*.env
+.env.*
+
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS-specific files
+.DS_Store
+
+# IDE-specific files
+.idea/
+.vscode/
+*.iml
